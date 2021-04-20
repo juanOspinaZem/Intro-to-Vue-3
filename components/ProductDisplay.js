@@ -38,7 +38,7 @@ app.component('product-display', {
           v-on:click="addToCart">
           Add to Cart
         </button>
-
+        <review-form></review-form>
       </div>
     </div>
   </div>`,
